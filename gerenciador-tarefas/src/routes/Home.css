@@ -1,0 +1,46 @@
+.container-cards{   
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    margin: 20px;
+}
+
+.btn-excluir{
+    border: solid 1px #d47970;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    margin-right: 102px;
+}
+
+.btn-excluir:hover{
+    background-color:#cb3030;
+}
+
+.btn-editar:hover{
+    background-color: #ebd167;
+}
+
+.btn-editar{
+    border: solid 1px #decf00;
+    border-radius: 5px;
+    background-color: #F4D03F;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.btn-ler-mais{
+    margin-bottom: 30px;
+    font-size: 13px;
+}
+
+.footer{
+    position:absolute;
+    bottom: 8px; 
+    margin-top: 15px;
+}
