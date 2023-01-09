@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QLRAy65KkE6RqV/BrApCxhrcKG1WgThE8k36WcyD/gPsZjJdBt/0tU+W3tax34p6SlNXuCk5sh/v4v/+C5K4fQ==",
+  "dgSpecHash": "ZJln2Ge6S75U2yujjdG2OaXU7dMWMWmwszcvY3T9yO6t4Cu2dr6u5m9M4Twzvz8g3LKvhnwnQfa0vVe73ucTzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mauri\\Documents\\Projetos\\GerenciadorTarefas\\api_gerenciador\\api_gerenciador.csproj",
+  "projectFilePath": "c:\\Users\\mauri\\Documents\\Projetos\\GerenciadorTarefas\\api_gerenciador\\api_gerenciador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mauri\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
