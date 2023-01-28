@@ -1,0 +1,19 @@
+.navbar-color{ 
+    background-color: #202020db !important;
+}
+
+.text-navbar{
+    color: white;
+    font-weight: bold;
+    margin: 0px 25px;
+
+}
+
+.text-navbar: hover{
+    color: red !important;
+
+}
+
+.navbar-titulo{
+    margin-right: 7%;
+}

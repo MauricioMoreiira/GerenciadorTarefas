@@ -1,6 +1,6 @@
 import React from 'react'
 
-function NewTask() {
+const NewTask = () => {
   return (
     <div>NewTask</div>
   )
