@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const tarefaFetch = axios.create({
+const api = axios.create({
     baseURL: "https://localhost:5001"
 });
 
-export default tarefaFetch
+export default api

@@ -56,6 +56,8 @@ namespace API_TAREFAS
 
             app.UseAuthorization();
 
+            app.UseCors(option => option.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
